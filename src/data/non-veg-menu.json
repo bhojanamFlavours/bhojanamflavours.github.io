@@ -74,8 +74,8 @@
 	},
 	{
 		"id": 2,
-		"slug": "tuesday",
-		"prettyName": "Tuesday",
+		"slug": "chicken-salads",
+		"prettyName": "Chicken & Salads",
 		"description": "Fresh and healthy salads made with seasonal ingredients.",
 		"plates": [
 			{
