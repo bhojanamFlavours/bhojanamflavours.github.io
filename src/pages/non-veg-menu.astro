@@ -1,0 +1,19 @@
+---
+import Layout from "~/layouts/Layout.astro";
+import Section from "~/components/Section.astro";
+import Heading from "~/components/Heading.astro";
+import MenuList from "~/components/NonVeg.astro";
+---
+
+<Layout>
+	<Section>
+		<Heading>
+			<h1 slot="heading-title" class="font-black text-brand-green h2">Non-Veg Menu</h1>
+			<p slot="heading-content">
+				Indulge in our delectable non-vegetarian menu, featuring a variety of dishes crafted with the freshest ingredients and bold flavors. From succulent meats to flavorful seafood, each dish is designed to provide a memorable dining experience that celebrates the richness of Indian non-vegetarian cuisine.
+			</p>
+		</Heading>
+
+		<MenuList />
+	</Section>
+</Layout>

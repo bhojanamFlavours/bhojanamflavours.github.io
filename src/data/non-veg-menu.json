@@ -1,0 +1,147 @@
+[
+	{
+		"id": 1,
+		"slug": "starters",
+		"prettyName": "Starters",
+		"description": "Begin your meal with our delightful starters.",
+		"plates": [
+			{
+				"name": "Egg Bhurji",
+				"description": "Scrambled eggs cooked with onions, tomatoes, and spices.",
+				"price": 15
+			},
+			{
+				"name": "Boiled Egg Bhurji",
+				"description": "Boiled eggs cooked with onions, tomatoes, and spices.",
+				"price": 15
+			},
+			{
+				"name": "Masala Egg Omlet with Bread",
+				"description": "Spiced egg omelet served with buttered bread.",
+				"price": 17
+			},
+			{
+				"name": "Egg Pakora",
+				"description": "Spicy deep-fried egg fritters made with gram flour and spices.",
+				"price": 15
+			},
+			{
+				"name": "Egg Frankie/Roll",
+				"description": "Spiced egg filling wrapped in a soft paratha.",
+				"price": 15
+			},
+			{
+				"name": "Chicken Tikka",
+				"description": "Juicy chicken pieces marinated with spices and grilled.",
+				"price": 15
+			},
+			{
+				"name": "Chicken 65",
+				"description": "Crispy fried chicken bites seasoned with spices.",
+				"price": 16
+			},
+			{
+				"name": "Chicken Pakora",
+				"description": "Succulent chicken pieces coated in spiced gram flour and deep-fried.",
+				"price": 16
+			},
+			{
+				"name": "Chicken Frankie/Roll",
+				"description": "Spiced chicken filling wrapped in a soft paratha.",
+				"price": 16
+			},
+			{
+				"name": "Chilli Chicken",
+				"description": "Spicy chicken stir-fried with bell peppers and soy sauce.",
+				"price": 15
+			},
+			{
+				"name": "Chicken Manchurian",
+				"description": "Battered chicken pieces tossed in a tangy Manchurian sauce.",
+				"price": 16
+			},
+			{
+				"name": "Chicken Pepper Fry (Dry)",
+				"description": "Spicy and dry chicken fry with pepper and spices.",
+				"price": 18
+			},
+			{
+				"name": "Mutton (Lamb) Sukka",
+				"description": "Spicy dry-fried mutton with coconut and spices.",
+				"price": 22
+			}
+		]
+	},
+	{
+		"id": 2,
+		"slug": "tuesday",
+		"prettyName": "Tuesday",
+		"description": "Fresh and healthy salads made with seasonal ingredients.",
+		"plates": [
+			{
+				"name": "Caesar Salad",
+				"description": "Crisp romaine with parmesan, croutons, and Caesar dressing.",
+				"price": 7.5
+			}
+		]
+	},
+	{
+		"id": 3,
+		"slug": "wednesday",
+		"prettyName": "Wednesday",
+		"description": "Warm up with one of our delicious soups.",
+		"plates": [
+			{
+				"name": "Minestrone",
+				"description": "Hearty vegetable soup with beans and pasta.",
+				"price": 6.5
+			}
+		]
+	},
+	{
+		"id": 4,
+		"slug": "thursday",
+		"prettyName": "Thursday",
+		"description": "Savor the flavors of our exquisite first courses.",
+		"plates": [
+			{
+				"name": "Spaghetti Carbonara",
+				"description": "Classic pasta with pancetta, eggs, and parmesan.",
+				"price": 12
+			},
+			{
+				"name": "Lasagna Bolognese",
+				"description": "Layered pasta with rich meat sauce and béchamel.",
+				"price": 14
+			},
+			{
+				"name": "Risotto alla Milanese",
+				"description": "Creamy saffron risotto.",
+				"price": 13.5
+			},
+			{
+				"name": "Penne Arrabbiata",
+				"description": "Spicy tomato sauce with garlic and chili peppers.",
+				"price": 11.5
+			},
+			{
+				"name": "Gnocchi al Pesto",
+				"description": "Potato dumplings in basil pesto sauce.",
+				"price": 12.5
+			}
+		]
+	},
+	{
+		"id": 5,
+		"slug": "friday",
+		"prettyName": "Friday",
+		"description": "Indulge in our hearty and satisfying main courses.",
+		"plates": [
+			{
+				"name": "Osso Buco",
+				"description": "Braised veal shank with gremolata and risotto.",
+				"price": 19.5
+			}
+		]
+	}
+]

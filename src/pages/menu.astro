@@ -1,0 +1,19 @@
+---
+import Layout from "~/layouts/Layout.astro";
+import Section from "~/components/Section.astro";
+import Heading from "~/components/Heading.astro";
+import MenuList from "~/components/Menu.astro";
+---
+
+<Layout>
+	<Section>
+		<Heading>
+			<h1 slot="heading-title" class="font-black text-brand-green h2">Our Veg menu</h1>
+			<p slot="heading-content">
+				We are delighted to present our exquisite vegetarian menu, crafted with a passion for fresh, wholesome ingredients and vibrant flavors. Each dish is thoughtfully prepared to offer a delightful culinary experience that celebrates the richness of Indian vegetarian cuisine.
+			</p>
+		</Heading>
+
+		<MenuList />
+	</Section>
+</Layout>

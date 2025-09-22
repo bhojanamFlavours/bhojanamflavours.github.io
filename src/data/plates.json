@@ -1,0 +1,291 @@
+[
+	{
+		"id": 1,
+		"slug": "vegetarian",
+		"prettyName": "Vegefied Wonders",
+		"description": "Our Vegetarian dishes are crafted with fresh, seasonal ingredients to delight your taste buds.",
+		"plates": [
+			{
+				"name": "Bhojanam's Mix Veg",
+				"description": "A colorful medley of seasonal vegetables sautéed with aromatic spices.",
+				"price": 15
+			},
+			{
+				"name": "Dum Aloo Delight",
+				"description": "Potatoes slow-cooked with spices and herbs.",
+				"price": 15
+			},
+			{
+				"name": "Masala Aloo Gobhi",
+				"description": "A flavorful blend of potatoes and cauliflower cooked with traditional Indian spices.",
+				"price": 15
+			},
+			{
+				"name": "Charred Baingan Magic",
+				"description": "Smoky grilled eggplant cooked with onions, tomatoes, and spices.",
+				"price": 15
+			},
+			{
+				"name": "Tawa Baingan Slices",
+				"description": "A classic dish of spiced and grilled eggplant slices.",
+				"price": 15
+			},
+			{
+				"name": "Chatpata Gobi Masala",
+				"description": "A tangy and spicy dish of cauliflower cooked with a blend of spices.",
+				"price": 15
+			},
+			{
+				"name": "Aloo Palak Bhuna",
+				"description": "A classic dish of spiced potatoes and spinach cooked with aromatic spices.",
+				"price": 15
+			},
+			{
+				"name": "Chatkara Mushroom Masala",
+				"description": "A classic dish of spiced mushrooms cooked with onions, tomatoes, and a blend of spices.",
+				"price": 15
+			}
+		]
+	},
+	{
+		"id": 2,
+		"slug": "paneer",
+		"prettyName": "Paneer Magic Moments",
+		"description": "Indulge in our rich and creamy paneer dishes.",
+		"plates": [
+			{
+				"name": "Butter Bliss Paneer",
+				"description": "Paneer cubes in a rich and creamy tomato-based gravy.",
+				"price": 20
+			},
+			{
+				"name": "Peas & Paneer Affair",
+				"description": "A delightful combination of peas and paneer in a spiced gravy.",
+				"price": 20
+			},
+			{
+				"name": "Zesty Paneer Masala",
+				"description": "Paneer cubes cooked with a zesty blend of spices and herbs.",
+				"price": 20
+			},
+			{
+				"name": "Shahi Palak Paneer",
+				"description": "Creamy spinach and paneer curry.",
+				"price": 20
+			},
+			{
+				"name": "Chef's Special Paneer Lababdar",
+				"description": "Paneer cooked in a rich and creamy tomato-based gravy.",
+				"price": 20
+			}
+		]
+	},
+	{
+		"id": 3,
+		"slug": "daal",
+		"prettyName": "Daal-icious Vibes",
+		"description": "Savor the comforting flavors of our daal dishes.",
+		"plates": [
+			{
+				"name": "Desi Daal Fry",
+				"description": "Hearty lentil dish tempered with spices.",
+				"price": 15
+			},
+			{
+				"name": "Daal-E-Tadka",
+				"description": "Creamy lentil soup with potatoes, sausage, and kale.",
+				"price": 15
+			},
+			{
+				"name": "Tomato Basil Soup",
+				"description": "Rich tomato soup with fresh basil.",
+				"price": 5.5
+			},
+			{
+				"name": "Royal Daal Makhani",
+				"description": "Slow-cooked black lentils in a creamy tomato sauce.",
+				"price": 17
+			},
+			{
+				"name": "Spinach Tadka Daal",
+				"description": "Creamy soup with a medley of spinach and spices.",
+				"price": 15
+			},
+			{
+				"name": "Veggie Daalma - Odisha",
+				"description": "Creamy soup with a medley of vegetables and spices.",
+				"price": 15
+			}
+		]
+	},
+	{
+		"id": 4,
+		"slug": "parathas",
+		"prettyName": "Stuff Happens Parathas",
+		"description": "Savor the flavors of our exquisite parathas.",
+		"plates": [
+			{
+				"name": "Aloo Paratha",
+				"description": "Stuffed flatbread with spiced potatoes.",
+				"price": 8
+			},
+			{
+				"name": "Gobi Paratha",
+				"description": "Stuffed flatbread with spiced cauliflower.",
+				"price": 9
+			},
+			{
+				"name": "Paneer Paratha",
+				"description": "Stuffed flatbread with spiced paneer.",
+				"price": 9
+			},
+			{
+				"name": "Special Mutter Paratha",
+				"description": "Stuffed flatbread with spiced green peas.",
+				"price": 9
+			},
+			{
+				"name": "Onion Paratha",
+				"description": "Stuffed flatbread with spiced onions.",
+				"price": 8
+			},
+			{
+				"name": "Chilli Onion Paratha",
+				"description": "Stuffed flatbread with spiced onions and green chilies.",
+				"price": 8
+			},
+			{
+				"name": "Paneer Cheese Paratha",
+				"description": "Stuffed flatbread with spiced paneer and cheese.",
+				"price": 10
+			}
+		]
+	},
+	{
+		"id": 5,
+		"slug": "bhojanam-bowls",
+		"prettyName": "Bhojanam Bowls",
+		"description": "Experience the essence of Indian cuisine with our authentic dishes.",
+		"plates": [
+			{
+				"name": "Plain Sambar",
+				"description": "A comforting lentil soup with vegetables.",
+				"price": 10
+			},
+			{
+				"name": "Vegetable Sambar",
+				"description": "A medley of vegetables stewed with lentils and spices.",
+				"price": 15
+			},
+			{
+				"name": "Bhojanam Special Rassam",
+				"description": "A spicy and tangy tamarind soup with tomatoes and spices.",
+				"price": 10
+			},
+			{
+				"name": "Kadhi",
+				"description": "A yogurt-based curry with spices.",
+				"price": 10
+			},
+			{
+				"name": "Kadhi Pakora",
+				"description": "Yogurt-based curry with gram flour dumplings.",
+				"price": 15
+			}
+		]
+	},
+	{
+		"id": 6,
+		"slug": "rice-aromas",
+		"prettyName": "Rice & Aromas",
+		"description": "Savor the fragrant rice dishes that complement your meal.",
+		"plates": [
+			{
+				"name": "Steamed Rice",
+				"description": "Fluffy rice steamed to perfection.",
+				"price": 7
+			},
+			{
+				"name": "Jeera Rice",
+				"description": "Cumin-flavored rice with a hint of spices.",
+				"price": 9
+			},
+			{
+				"name": "Comfort Khichdi",
+				"description": "Comforting rice and lentil dish with mild spices.",
+				"price": 15
+			},
+			{
+				"name": "Special Masala Rice",
+				"description": "Aromatic rice cooked with spices and vegetables.",
+				"price": 17
+			},
+			{
+				"name": "Veg Fried Rice",
+				"description": "A flavorful mix of vegetables stir-fried with rice.",
+				"price": 15
+			},
+			{
+				"name": "Bhojanam Veg Dum Biryani",
+				"description": "Aromatic basmati rice cooked with vegetables and spices.",
+				"price": 20
+			}
+		]
+	},
+	{
+		"id": 7,
+		"slug": "bhijanam-breads",
+		"prettyName": "Bhojanam Breads",
+		"description": "Enjoy our freshly baked breads with a variety of toppings.",
+		"plates": [
+			{
+				"name": "Phulka with Ghee",
+				"description": "Soft whole wheat flatbread served with ghee.",
+				"price": 1
+			},
+			{
+				"name": "Tawa Chapati",
+				"description": "Traditional Indian flatbread cooked on a griddle.",
+				"price": 2
+			}
+		]
+	},
+	{
+		"id": 8,
+		"slug": "sweet-tooth-tales",
+		"prettyName": "Sweet Tooth Tales",
+		"description": "Indulge in our delightful desserts to satisfy your sweet cravings.",
+		"plates": [
+			{
+				"name": "Puran Poli (Maharshtrian Sweet Flatbread)",
+				"description": "Sweet flatbread stuffed with a spiced lentil filling.",
+				"price": 8
+			},
+			{
+				"name": "Kalakand (250g)",
+				"description": "Soft and creamy Indian sweet made with fresh paneer.",
+				"price": 10
+			},
+			{
+				"name": "Shrikhand (250g)",
+				"description": "Creamy yogurt dessert flavored with cardamom and saffron.",
+				"price": 10
+			},
+			{
+				"name": "Amrakhand (250g)",
+				"description": "Mango-flavored yogurt dessert.",
+				"price": 12
+			},
+			{
+					"name": "Gajar ka Halwa (250g)",
+					"description": "Traditional Indian dessert made with grated carrots and milk.",
+					"price": 9
+			},
+			{
+				"name": "Gulab Jamun (4 ea)",
+				"description": "Soft milk dumplings soaked in rose-flavored syrup.",
+				"price": 8
+			}
+		]
+	}
+]

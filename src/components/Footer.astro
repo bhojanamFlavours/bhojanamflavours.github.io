@@ -1,0 +1,24 @@
+---
+import { menuMain } from "~/data/menus";
+const currentYear = new Date().getFullYear();
+import { siteName } from "~/data/config";
+import logo from '~/assets/images/bhojanam-logo-bg.png';
+---
+
+<footer class="bg-brand-green text-white">
+	<div class="container pt-16 pb-8">
+		<a href="/" class="-m-1.5 p-1.5 flex justify-center">
+				<img src={logo.src} alt="Bhojanam Logo" class="h-30 w-auto" />
+		</a>
+		<nav class="flex flex-col sm:flex-row items-center justify-center gap-x-12 gap-y-3 font-medium mt-6" aria-label="Footer">
+			{
+				menuMain.map((item) => (
+					<a href={item.url} class="hover:underline">
+						{item.name}
+					</a>
+				))
+			}
+		</nav>
+		<p class="mt-10 text-center text-sm">&copy; {currentYear} {siteName}. All rights reserved. <a class="underline" href="/privacy-policy">Privacy policy</a></p>
+	</div>
+</footer>
