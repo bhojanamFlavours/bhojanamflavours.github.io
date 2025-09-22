@@ -82,6 +82,11 @@
 				"name": "Caesar Salad",
 				"description": "Crisp romaine with parmesan, croutons, and Caesar dressing.",
 				"price": 7.5
+			},
+			{
+				"name": "Chicken Salad",
+				"description": "Crisp romaine with parmesan, croutons, and Caesar dressing.",
+				"price": 17
 			}
 		]
 	},
