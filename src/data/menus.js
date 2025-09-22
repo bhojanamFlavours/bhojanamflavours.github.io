@@ -14,16 +14,16 @@ export const menuMain = [
         url: "/non-veg-menu",
         highlighted: false,
     },
-    {
-        name: "About Us",
-        url: "/about-us",
-        highlighted: false,
-    },
-    {
-        name: "Dabba Menu",
-        url: "/dabba",
-        highlighted: false,
-    },
+    // {
+    //     name: "About Us",
+    //     url: "/about-us",
+    //     highlighted: false,
+    // },
+    // {
+    //     name: "Dabba Menu",
+    //     url: "/dabba",
+    //     highlighted: false,
+    // },
     // {
     //     name: "Contact",
     //     url: "/contact",
