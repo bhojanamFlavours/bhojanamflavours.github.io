@@ -1,6 +1,7 @@
 ---
 import { menuMain } from "~/data/menus.js";
 import logo from '../assets/images/bhojanam-logo-bg.png';
+import menu from '../assets/bhojanam-menu.pdf';
 
 const rmTrailingSlash = (path: string): string => {
   return path.endsWith("/") && path.length > 1 
@@ -51,6 +52,13 @@ const pathname = rmTrailingSlash(Astro.url.pathname);
 						</a>
 					))
 				}
+				<a
+					href={menu}
+					download
+					class="inline-block px-2 py-2 bg-brand-green text-white font-semibold rounded-md hover:bg-brand-green-dark transition"
+				>
+					Download Menu
+				</a>
 			</div>
 		</nav>
 		<div class="lg:hidden" x-ref="dialog" x-show="open" x-cloak aria-modal="true">
@@ -100,6 +108,16 @@ const pathname = rmTrailingSlash(Astro.url.pathname);
 							}
 						</div>
 					</div>
+				</div>
+				<div class="mt-6 text-center">
+					<a
+						href="/menu.pdf"
+						download
+						class="inline-block px-6 py-3 bg-brand-green text-white font-semibold rounded-md hover:bg-brand-green-dark transition"
+						@click="open = false"
+					>
+						Download Menu
+					</a>
 				</div>
 			</div>
 		</div>
