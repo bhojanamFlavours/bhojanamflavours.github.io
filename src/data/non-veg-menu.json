@@ -75,7 +75,7 @@
 	{
 		"id": 2,
 		"slug": "seafood",
-		"prettyName": "SEAFOOD @ MARKET PRICE",
+		"prettyName": "Seafood @ Market Price",
 		"description": "Fresh and healthy seafood dishes made with seasonal ingredients.",
 		"plates": [
 			{
@@ -119,27 +119,27 @@
 			{
 				"name": "Desi Anda Curry",
 				"description": "Classic egg curry",
-				"price": 18
+				"price": 17
 			},
 			{
 				"name": "Egg Fried Rice",
 				"description": "Fragrant fried rice cooked with eggs and vegetables.",
-				"price": 22
+				"price": 15
 			},
 			{
 				"name": "Egg Dum Biryani",
 				"description": "Fragrant basmati rice cooked with spiced eggs, served with raita.",
-				"price": 19
+				"price": 17
 			},
 			{
 				"name": "Dhaba Style Chicken Curry",
 				"description": "Spicy and flavorful chicken curry cooked in traditional style.",
-				"price": 19
+				"price": 20
 			},
 			{
 				"name": "Classic Butter Chicken",
 				"description": "Creamy tomato-based chicken curry with butter and cream.",
-				"price": 19
+				"price": 20
 			},
 			{
 				"name": "Chicken Pepper Fry (Gravy)",
@@ -149,37 +149,37 @@
 			{
 				"name": "Kadhai Chicken",
 				"description": "Spicy chicken curry cooked with bell peppers and spices.",
-				"price": 24
+				"price": 20
 			},
 			{
 				"name": "Chicken Masala",
 				"description": "Spicy chicken curry cooked with bell peppers and spices.",
-				"price": 24
+				"price": 20
 			},
 			{
 				"name": "Lamb Rogan Josh",
 				"description": "Tender lamb cooked in a rich and aromatic gravy.",
-				"price": 25
+				"price": 22
 			},
 			{
 				"name": "Slow Cooked Lamb Shank Curry",
 				"description": "Tender lamb shank slow-cooked in a rich gravy.",
-				"price": 26
+				"price": 22
 			},
 			{
 				"name": "Lamb Kheema Masala",
 				"description": "Minced lamb cooked with spices and herbs.",
-				"price": 26
+				"price": 22
 			},
 			{
 				"name": "Bhojanam Goat Curry**",
 				"description": "Tender goat meat cooked in a rich and aromatic gravy.",
-				"price": 26
+				"price": 24
 			},
 			{
 				"name": "Goat Masala**",
 				"description": "Fragrant basmati rice cooked with spiced goat meat, served with raita.",
-				"price": 22
+				"price": 24
 			},
 			{
 				"name": "** Goat - preorder 3 days in advance",
