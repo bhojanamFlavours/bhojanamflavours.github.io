@@ -5,7 +5,7 @@ export const menuMain = [
         highlighted: false,
     },
     {
-        name: "Menu",
+        name: "Veg Menu",
         url: "/menu",
         highlighted: false,
     },
