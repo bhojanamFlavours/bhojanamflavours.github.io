@@ -45,7 +45,7 @@ const siteLangFormat = siteLang.replace("_", "-");
 									<div class="flex justify-between items-center">
 										<span class="font-bold text-2xl tracking-wide">{item.name}</span>
 										<span class="font-medium text-lg">
-											{new Intl.NumberFormat(siteLangFormat, {
+											{item.price === 0 ? "MP*" : new Intl.NumberFormat(siteLangFormat, {
 												style: "currency",
 												currency: siteCurrency,
 											}).format(item.price)}
@@ -65,7 +65,7 @@ const siteLangFormat = siteLang.replace("_", "-");
 		))
 	}
 </div>
-
+<p class="text-sm text-gray-500 mt-4 text-center">MP* - based on market price</p>
 <style>
 	@media screen and (min-width: 0px) and (max-width: 640px) {
 		#plate-nav-wrapper {
