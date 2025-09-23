@@ -74,78 +74,145 @@
 	},
 	{
 		"id": 2,
-		"slug": "chicken-salads",
-		"prettyName": "Chicken & Salads",
-		"description": "Fresh and healthy salads made with seasonal ingredients.",
+		"slug": "seafood",
+		"prettyName": "SEAFOOD @ MARKET PRICE",
+		"description": "Fresh and healthy seafood dishes made with seasonal ingredients.",
 		"plates": [
 			{
-				"name": "Caesar Salad",
-				"description": "Crisp romaine with parmesan, croutons, and Caesar dressing.",
-				"price": 7.5
+				"name": "Tawa Fry | Deep Fry",
+				"description": "Crispy fried fish marinated with spices.",
+				"price": 20
 			},
 			{
-				"name": "Chicken Salad",
-				"description": "Crisp romaine with parmesan, croutons, and Caesar dressing.",
+				"name": "Basa Fillets",
+				"description": "Crispy basa fillets served with tartar sauce.",
 				"price": 17
+			},
+			{
+				"name": "Salmon",
+				"description": "Spicy fish curry made with coconut milk and tamarind.",
+				"price": 22
+			},
+			{
+				"name": "Prawns",
+				"description": "Spicy prawns cooked with coconut milk and tamarind.",
+				"price": 22
 			}
 		]
 	},
 	{
 		"id": 3,
-		"slug": "wednesday",
-		"prettyName": "Wednesday",
-		"description": "Warm up with one of our delicious soups.",
+		"slug": "mains",
+		"prettyName": "Mains",
+		"description": "Indulge in our hearty and satisfying main courses.",
 		"plates": [
 			{
-				"name": "Minestrone",
-				"description": "Hearty vegetable soup with beans and pasta.",
-				"price": 6.5
+				"name": "Egg Tawa Masala with 2 Paav",
+				"description": "Spicy egg curry served with soft bread rolls.",
+				"price": 17
+			},
+			{
+				"name": "Chef’s Special Egg Shakshuka",
+				"description": "Poached eggs in a spicy tomato and bell pepper sauce.",
+				"price": 17
+			},
+			{
+				"name": "Desi Anda Curry",
+				"description": "Classic egg curry",
+				"price": 18
+			},
+			{
+				"name": "Egg Fried Rice",
+				"description": "Fragrant fried rice cooked with eggs and vegetables.",
+				"price": 22
+			},
+			{
+				"name": "Egg Dum Biryani",
+				"description": "Fragrant basmati rice cooked with spiced eggs, served with raita.",
+				"price": 19
+			},
+			{
+				"name": "Dhaba Style Chicken Curry",
+				"description": "Spicy and flavorful chicken curry cooked in traditional style.",
+				"price": 19
+			},
+			{
+				"name": "Classic Butter Chicken",
+				"description": "Creamy tomato-based chicken curry with butter and cream.",
+				"price": 19
+			},
+			{
+				"name": "Chicken Pepper Fry (Gravy)",
+				"description": "Spicy chicken curry with pepper and spices.",
+				"price": 20
+			},
+			{
+				"name": "Kadhai Chicken",
+				"description": "Spicy chicken curry cooked with bell peppers and spices.",
+				"price": 24
+			},
+			{
+				"name": "Chicken Masala",
+				"description": "Spicy chicken curry cooked with bell peppers and spices.",
+				"price": 24
+			},
+			{
+				"name": "Lamb Rogan Josh",
+				"description": "Tender lamb cooked in a rich and aromatic gravy.",
+				"price": 25
+			},
+			{
+				"name": "Slow Cooked Lamb Shank Curry",
+				"description": "Tender lamb shank slow-cooked in a rich gravy.",
+				"price": 26
+			},
+			{
+				"name": "Lamb Kheema Masala",
+				"description": "Minced lamb cooked with spices and herbs.",
+				"price": 26
+			},
+			{
+				"name": "Bhojanam Goat Curry**",
+				"description": "Tender goat meat cooked in a rich and aromatic gravy.",
+				"price": 26
+			},
+			{
+				"name": "Goat Masala**",
+				"description": "Fragrant basmati rice cooked with spiced goat meat, served with raita.",
+				"price": 22
+			},
+			{
+				"name": "** Goat - preorder 3 days in advance",
+				"description": "Please contact us for more details.",
+				"price": 0
 			}
 		]
 	},
 	{
 		"id": 4,
-		"slug": "thursday",
-		"prettyName": "Thursday",
-		"description": "Savor the flavors of our exquisite first courses.",
+		"slug": "seafood-mains",
+		"prettyName": "Seafood Mains",
+		"description": "Delight in our flavorful seafood main courses.",
 		"plates": [
 			{
-				"name": "Spaghetti Carbonara",
-				"description": "Classic pasta with pancetta, eggs, and parmesan.",
-				"price": 12
+				"name": "Fish Curry",
+				"description": "Classic fish curry with coconut milk and spices.",
+				"price": 0
 			},
 			{
-				"name": "Lasagna Bolognese",
-				"description": "Layered pasta with rich meat sauce and béchamel.",
-				"price": 14
+				"name": "Fish Masala (dry)",
+				"description": "Spicy dry-fried fish with spices.",
+				"price": 0
 			},
 			{
-				"name": "Risotto alla Milanese",
-				"description": "Creamy saffron risotto.",
-				"price": 13.5
+				"name": "Prawn Curry",
+				"description": "Creamy prawn curry with coconut milk and spices.",
+				"price": 0
 			},
 			{
-				"name": "Penne Arrabbiata",
-				"description": "Spicy tomato sauce with garlic and chili peppers.",
-				"price": 11.5
-			},
-			{
-				"name": "Gnocchi al Pesto",
-				"description": "Potato dumplings in basil pesto sauce.",
-				"price": 12.5
-			}
-		]
-	},
-	{
-		"id": 5,
-		"slug": "friday",
-		"prettyName": "Friday",
-		"description": "Indulge in our hearty and satisfying main courses.",
-		"plates": [
-			{
-				"name": "Osso Buco",
-				"description": "Braised veal shank with gremolata and risotto.",
-				"price": 19.5
+				"name": "Prawn Masala (dry)",
+				"description": "Spicy dry-fried prawns with spices.",
+				"price": 0
 			}
 		]
 	}
